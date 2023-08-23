@@ -1,4 +1,4 @@
-# Singapore Housing Data & Kaggle Challenge
+# Project 2: Singapore Housing Data & Kaggle Challenge
 
 # Table of Contents:
 1. [Problem Statement](#Problem_Statement)
